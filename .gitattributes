@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+BAR-LCA.rar filter=lfs diff=lfs merge=lfs -text
